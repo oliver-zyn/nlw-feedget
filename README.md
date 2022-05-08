@@ -18,6 +18,7 @@ Site em produção: https://feedget-nlw.netlify.app
 - Vite
 - Axios
 - Phosphor Icons
+- Headless UI
 - Prisma
 - PostgreSQL
 - Nodemailer
