@@ -8,7 +8,7 @@ Um projeto criado juntamente com a <a href="https://www.rocketseat.com.br">rocke
 
 A aplicação consiste em um widget que envia feedbacks para os donos da página, podendo ser reutilizado em diversas outras aplicações. Contém tanto o front-end (react.js) e back-end (node.js) com banco de dados (postgresql).
 
-Site em produção: https://feedget-nlw.netlify.app
+Aplicação em produção: https://feedget-nlw.netlify.app
 
 ## 💻 Tecnologias utilizadas
 
